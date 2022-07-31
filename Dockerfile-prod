@@ -5,7 +5,7 @@ COPY . ./
 RUN npm ci
 RUN npm run build
 
-FROM flexcodelabs/nginx:v0.01 as deploy
+FROM project-name/nginx:v0.01 as deploy
 
 FROM nginx
 

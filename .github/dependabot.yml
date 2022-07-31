@@ -10,6 +10,7 @@ updates:
       - "dependencies"
     reviewers:
       - "bmsteven"
+      - "neicore"
     commit-message:
       prefix: "npm dev"
       prefix-development: "dev"
