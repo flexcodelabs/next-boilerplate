@@ -1,0 +1,6 @@
+build
+.github
+node_modules
+docker
+netlify.toml
+.env_sample
